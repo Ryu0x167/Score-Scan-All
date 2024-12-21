@@ -1,4 +1,4 @@
-Score-Scan-All   /           /             /
+Score-Scan-All    /           /             /
 
 Passport Crypto Scoring Service
 
