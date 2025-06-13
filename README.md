@@ -12,6 +12,7 @@ Our proprietary scoring system evaluates various passport attributes, including 
 Real-Time Updates
 Score-Scan-All provides instant updates on passport scores, ensuring that you always have access to the most accurate and up-to-date information. This feature enables you to make informed decisions about identity verification and authentication.
 
+
 User-Friendly Interface
 Our intuitive and user-friendly interface makes it easy for anyone to use Score-Scan-All. With a simple and streamlined design, you can quickly input passport information and receive accurate scoring results.
 
