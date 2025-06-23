@@ -31,9 +31,3 @@ Our comprehensive scoring system ensures that every passport is assessed with pr
 
 
 
-
-
-
-
-
-
