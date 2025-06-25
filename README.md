@@ -25,8 +25,3 @@ Score-Scan-All streamlines the passport scoring process, enabling you to quickly
 Accurate Results
 Our comprehensive scoring system ensures that every passport is assessed with precision and accuracy. This guarantees that you receive accurate and reliable results, giving you confidence in your identity verification decisions.
 
-
-
-
-
-
