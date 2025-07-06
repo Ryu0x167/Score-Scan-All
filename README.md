@@ -2,8 +2,6 @@ Score-Scan-All Passport Crypto Scoring Service
  
 Score-Scan-All is a cutting-edge passport crypto scoring service designed to provide an intuitive and secure way to evaluate and authenticate digital identities. This innovative solution leverages advanced cryptography techniques to generate a unique score for each passport, ensuring that every user's identity is accurately assessed and protected.
 
-
-
 Features
 Secure Authentication
 Score-Scan-All employs state-of-the-art cryptographic algorithms to verify the authenticity of passport information. This ensures that your identity is safeguarded against fraudulent activities and unauthorized access.
@@ -18,7 +16,7 @@ User-Friendly Interface
 Our intuitive and user-friendly interface makes it easy for anyone to use Score-Scan-All. With a simple and streamlined design, you can quickly input passport information and receive accurate scoring results.
 
 Benefits
-/
+
 Enhanced Security
 By leveraging advanced cryptography, Score-Scan-All provides an added layer of security for your digital identity. This ensures that your passport information is protected from unauthorized access and fraudulent activities.
 
