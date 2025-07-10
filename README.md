@@ -8,7 +8,7 @@ Score-Scan-All employs state-of-the-art cryptographic algorithms to verify the a
 
 Comprehensive Scoring System
 Our proprietary scoring system evaluates various passport attributes, including biometric data, issuing country, and expiration dates. This comprehensive approach guarantees that every passport is assessed with precision and accuracy.
-
+00000
 Real-Time Updates
 Score-Scan-All provides instant updates on passport scores, ensuring that you always have access to the most accurate and up-to-date information. This feature enables you to make informed decisions about identity verification and authentication.
 
