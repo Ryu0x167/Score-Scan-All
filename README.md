@@ -16,7 +16,7 @@ User-Friendly Interface
 Our intuitive and user-friendly interface makes it easy for anyone to use Score-Scan-All. With a simple and streamlined design, you can quickly input passport information and receive accurate scoring results.
 
 Benefits
-/
+
 Enhanced Security
 By leveraging advanced cryptography, Score-Scan-All provides an added layer of security for your digital identity. This ensures that your passport information is protected from unauthorized access and fraudulent activities.
 
