@@ -24,4 +24,4 @@ Improved Efficiency
 Score-Scan-All streamlines the passport scoring process, enabling you to quickly and easily evaluate and authenticate digital identities. This results in significant time savings and improved overall efficiency
 
 Accurate Results
-Our comprehensive scoring system ensures that every passport is assessed with precision and accuracy. This guarantees that you receive accurate and reliable results, giving you confidence in your identity verification decisions./
+Our comprehensive scoring system ensures that every passport is assessed with precision and accuracy. This guarantees that you receive accurate and reliable results, giving you confidence in your identity verification decisions./.
