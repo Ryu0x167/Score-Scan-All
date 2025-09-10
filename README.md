@@ -19,7 +19,7 @@ Benefits
 
 Enhanced Security
 By leveraging advanced cryptography, Score-Scan-All provides an added layer of security for your digital identity. This ensures that your passport information is protected from unauthorized access and fraudulent activities.
-.0
+
 Improved Efficiency
 Score-Scan-All streamlines the passport scoring process, enabling you to quickly and easily evaluate and authenticate digital identities. This results in significant time savings and improved overall efficiency.
 
