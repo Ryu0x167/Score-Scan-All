@@ -14,7 +14,7 @@ Score-Scan-All provides instant updates on passport scores, ensuring that you al
 
 User-Friendly Interface
 Our intuitive and user-friendly interface makes it easy for anyone to use Score-Scan-All. With a simple and streamlined design, you can quickly input passport information and receive accurate scoring results.
-7887
+788
 Benefits
 
 Enhanced Security
