@@ -6,7 +6,7 @@ Features
 Secure Authentication`
 Score-Scan-All employs state-of-the-art cryptographic algorithms to verify the authenticity of passport information. This ensures that your identity is safeguarded against fraudulent activities and unauthorized access.
 
-Comprehensive Scoring System
+Comprehensive Scoring Sysztem
 Our proprietary scoring system evaluates various passport attributes, including biometric data, issuing country, and expiration dates. This comprehensive approach guarantees that every passport is assessed with precision and accuracy.
 
 Real-Time Updates
